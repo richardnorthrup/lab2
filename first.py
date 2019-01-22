@@ -1,1 +1,1 @@
-print("HELLO MARS")
+print("HELLO Jupiter")
