@@ -5,3 +5,5 @@ https://github.com/richardnorthrup/PullReq
 https://github.com/richardnorthrup/courseproject
 
 ![Lab2](gitk.png)
+
+![Lab2](game.png)
